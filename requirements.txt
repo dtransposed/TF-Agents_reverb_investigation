@@ -1,0 +1,4 @@
+tf-agents-nightly==0.6.0.dev20200630
+tf-nightly==2.3.0.dev20200604
+tfp-nightly==0.11.0.dev20200630
+dm-reverb-nightly
